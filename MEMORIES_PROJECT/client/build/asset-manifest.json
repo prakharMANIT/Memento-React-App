@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/Memento-React-App/static/css/main.fa5a09dd.chunk.css",
+    "main.js": "/Memento-React-App/static/js/main.ba1c3ca1.chunk.js",
+    "main.js.map": "/Memento-React-App/static/js/main.ba1c3ca1.chunk.js.map",
+    "runtime-main.js": "/Memento-React-App/static/js/runtime-main.bc5194ff.js",
+    "runtime-main.js.map": "/Memento-React-App/static/js/runtime-main.bc5194ff.js.map",
+    "static/js/2.b4b65a04.chunk.js": "/Memento-React-App/static/js/2.b4b65a04.chunk.js",
+    "static/js/2.b4b65a04.chunk.js.map": "/Memento-React-App/static/js/2.b4b65a04.chunk.js.map",
+    "index.html": "/Memento-React-App/index.html",
+    "precache-manifest.c982f60f725131ba2b06488894a50719.js": "/Memento-React-App/precache-manifest.c982f60f725131ba2b06488894a50719.js",
+    "service-worker.js": "/Memento-React-App/service-worker.js",
+    "static/css/main.fa5a09dd.chunk.css.map": "/Memento-React-App/static/css/main.fa5a09dd.chunk.css.map",
+    "static/js/2.b4b65a04.chunk.js.LICENSE.txt": "/Memento-React-App/static/js/2.b4b65a04.chunk.js.LICENSE.txt",
+    "static/js/main.ba1c3ca1.chunk.js.LICENSE.txt": "/Memento-React-App/static/js/main.ba1c3ca1.chunk.js.LICENSE.txt",
+    "static/media/memories.png": "/Memento-React-App/static/media/memories.56f88b03.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.bc5194ff.js",
+    "static/js/2.b4b65a04.chunk.js",
+    "static/css/main.fa5a09dd.chunk.css",
+    "static/js/main.ba1c3ca1.chunk.js"
+  ]
+}
